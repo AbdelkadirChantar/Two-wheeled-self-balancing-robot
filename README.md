@@ -9,7 +9,7 @@ https://www.youtube.com/shorts/I0qjLEPEBZk
 
 ## Documentation
 
-I avoided using any library for both the MPU6050 and the PID algorithm, which is typically utilized in calibration aspects.
+I prefered not to use any library for both the MPU6050 and the PID algorithm, which is typically utilized in calibration aspects.
 after receiving row data from the MPU6050 and manipulating it using a complementary filter to generate adequate and precise data.It is then used to implement the proportional, integral, and derivative functions. The PID values are then used to provide the appropriate motor direction and voltage.
 
 
