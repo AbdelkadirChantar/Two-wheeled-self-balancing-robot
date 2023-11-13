@@ -4,7 +4,7 @@
 This robot is able to stand on two wheels.
 This project helps me to learn about sensor fusion, the PID, the MPU6050 module, the IMU sensor, and the complementary and Kalmna filters.
 ## Demo
-Watch the robot's video here: 
+Watch the robot video here: 
 https://www.youtube.com/shorts/I0qjLEPEBZk
 
 ## Documentation
